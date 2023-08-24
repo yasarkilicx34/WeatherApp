@@ -4,9 +4,12 @@
 WeatherApp: An iOS and iPadOS app to monitor weather in various cities.
 
 Features:
-Search Cities**: Find and add cities.
-Weather Details**: View temperature and conditions.
-Map Integration**: See cities on a map.
+
+Search Cities: Find and add cities.
+
+Weather Details: View temperature and conditions.
+
+Map Integration: See cities on a map.
 
 
 
